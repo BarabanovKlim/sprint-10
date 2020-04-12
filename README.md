@@ -4,4 +4,4 @@
 
 Ссылка на проект -  https://barabanovklim.github.io/sprint-10/ 
 
-Версия 0.0.2
+Версия 0.0.3
