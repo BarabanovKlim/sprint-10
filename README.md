@@ -2,6 +2,8 @@
 
 Форма регистрации с использованием регулярных выражений
 
-Ссылка на проект - https://barabanovklim.github.io/sprint-10/
 
 Версия 0.0.3
+
+Ссылка на проект -  https://barabanovklim.github.io/sprint-10/ 
+
